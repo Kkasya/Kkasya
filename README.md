@@ -11,15 +11,15 @@
 
 ## My projects:
 - **JavaScript ES6 (+ HTML/CSS(SCSS)):**
-    - [covid dashboard]() app for tracking the spread of COVID-19 in the world and in selected countries.
-    - english for kids app for learning English words for kids.
-    - gem-puzzle implementation of the classic Gem-puzzle.
-    - virtual-keyboard virtual keyboard with voice text input.
-    - momentum shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
-    - calculator.
+    - [covid dashboard](https://github.com/Kkasya/covid/) app for tracking the spread of COVID-19 in the world and in selected countries.
+    - [english for kids](https://github.com/Kkasya/english/) app for learning English words for kids.
+    - [gem-puzzle](https://github.com/Kkasya/game/) implementation of the classic Gem-puzzle.
+    - [virtual-keyboard](https://github.com/Kkasya/virtual-keyboard/) virtual keyboard with voice text input.
+    - [momentum](https://github.com/Kkasya/momentum) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data.
+    - [calculator](https://github.com/Kkasya/calculator/).
 - **HTML/CSS(SCSS):**
-    - Shelter responsive app for pet shelter. + JS - slider, pagination, popup.
-    - WebDev non-responsive site about web development.
+    - [Shelter](https://github.com/Kkasya/shelter) responsive app for pet shelter. + JS - slider, pagination, popup.
+    - [WebDev](https://github.com/Kkasya/webdev) non-responsive site about web development.
 ---
 ## Languages:
 - Speaking English(B1), Russian(native).
