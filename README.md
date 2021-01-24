@@ -25,3 +25,7 @@
 - Speaking English(B1), Russian(native).
 ---
 ### I am currently open for remote job.
+## Get in touch:
++ **Telegram:** [Koz_ana](https://t.me/Koz_ana)
++ **Skype:** kasya--k
++ **Email:** <kozlovskaja87@gmail.com>
