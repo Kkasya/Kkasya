@@ -5,6 +5,7 @@
 ## My skills:
 - **Responsive web-development:** HTML5, CSS/SCSS;
 - **Frontend:** JavaScript (ES5/ES6);
+- **Framework:** React;
 - **Code bundlers:** Webpack;
 - **Graphic Editors:** Figma;
 ---
