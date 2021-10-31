@@ -1,4 +1,4 @@
-![frontend.](https://raw.githubusercontent.com/kkasya/kkasya/master/3.jpg)
+![frontend.](https://raw.githubusercontent.com/kkasya/kkasya/master/1.jpg)
 ---
 ## My skills:
 - **Responsive web-development:** HTML5, CSS/SCSS;
